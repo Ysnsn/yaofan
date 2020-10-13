@@ -1,9 +1,9 @@
 <?php
 /*
  * 首页
- * Author：烟雨寒云
- * Mail：admin@yyhy.me
- * Date:2019/10/13
+ * Author：Ysnsn
+ * Mail：wyang0558@gmail.com
+ * Date:2020/10/10
  */
 
 include './Core/Common.php';
